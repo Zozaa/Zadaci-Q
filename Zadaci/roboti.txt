@@ -1,0 +1,14 @@
+loopA:
+
+L L R S G loopA
+
+loopB:
+
+L L L L G loopB
+
+Objasnjenje:
+
+kada desni robot nagazi na mrlju ulazi u donji loopB i krece se samo u levo a levi robot ce nastaviti gornji loopA, i stize
+ga relativno brzo jer u loopB ima cetiri komande L.
+(moglo je biti vise ili manje L komandi, a to bi samo uticalo na brzinu kretanja desnog robota 
+ali ga sustize u bilo kom slucaju)
